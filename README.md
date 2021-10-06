@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hariatylumbantobing!
 - 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning some of API automated tools such like Katalon
+- 🌱 I’m currently learning some of automated framework such like Robot Framework (among all of programming languages, I prefer using Python)
 - 📫 You can reach me by sending me email to hariatytobing@gmail.com
 
 <!---
